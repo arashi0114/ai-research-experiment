@@ -1,0 +1,3 @@
+# 仅记录已知项目标识；数据、模型、训练和评估协议在 M3 契约确定后补充。
+project:
+  name: {{PROJECT_NAME_JSON}}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Research Experiment"
+  short_description: "创建、重构并记录可复现的 PyTorch 科研实验"
+  default_prompt: "使用 $ai-research-experiment 帮我创建、完善或重构 PyTorch 科研实验，并根据现有证据整理报告。"
